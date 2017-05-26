@@ -6,5 +6,5 @@ scrapy 爬虫框架
 下载mongodb数据库，[教程](http://www.baidu)
 ##运行
 cd 到目录下，执行 scrapy crawl "xxx"  xxx 为爬虫的名字
->class MoiveSpider(CrawlSpider):
+>class MoiveSpider(CrawlSpider):<br/>
 >    name = 'coming'
